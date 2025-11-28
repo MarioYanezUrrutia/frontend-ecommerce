@@ -84,7 +84,7 @@ const mockProducts = [
     name: 'Monitor 4K 27"',
     category: 'Monitores',
     description: 'Resolución 4K, 144Hz, HDR10',
-    price: 499.99,
+    price: 1499.99,
     image: 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500',
     rating: 4.8,
     stock: 12,
