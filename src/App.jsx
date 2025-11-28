@@ -33,7 +33,7 @@ const mockProducts = [
     name: 'Smartphone X Pro',
     category: 'Smartphones',
     description: 'Pantalla OLED 6.5", cámara 108MP, 5G',
-    price: 899.99,
+    price: 999.99,
     image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500',
     rating: 4.7,
     stock: 8,
